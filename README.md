@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/rku-21/DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3674-minimum-operations-to-equalize-array](https://github.com/rku-21/DSA/tree/master/3674-minimum-operations-to-equalize-array) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -41,4 +42,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/rku-21/DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3674-minimum-operations-to-equalize-array](https://github.com/rku-21/DSA/tree/master/3674-minimum-operations-to-equalize-array) |
+## Brainteaser
+|  |
+| ------- |
+| [3674-minimum-operations-to-equalize-array](https://github.com/rku-21/DSA/tree/master/3674-minimum-operations-to-equalize-array) |
 <!---LeetCode Topics End-->
