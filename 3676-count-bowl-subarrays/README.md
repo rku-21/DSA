@@ -59,3 +59,5 @@
 	<li><code>1 &lt;= nums[i] &lt;= 10<sup>9</sup></code></li>
 	<li><code>nums</code> consists of distinct elements.</li>
 </ul>
+
+The idea is to find ‘bowl-shaped’ subarrays where the ends are greater than the elements in between. We maintain a monotonic decreasing stack to keep track of potential left boundaries in decreasing order. As we move right, when we find an element that breaks the pattern and is larger than what’s on top of the stack, that element becomes the right boundary. The elements we popped form the inside of the bowl. If the distance is at least three, we count the subarray. This ensures each bowl is counted once, based on the nearest greater boundaries
