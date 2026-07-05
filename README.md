@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/rku-21/DSA/tree/master/0219-contains-duplicate-ii) |
+| [1301-number-of-paths-with-max-score](https://github.com/rku-21/DSA/tree/master/1301-number-of-paths-with-max-score) |
 | [1403-minimum-subsequence-in-non-increasing-order](https://github.com/rku-21/DSA/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
 | [2401-longest-nice-subarray](https://github.com/rku-21/DSA/tree/master/2401-longest-nice-subarray) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/rku-21/DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [1301-number-of-paths-with-max-score](https://github.com/rku-21/DSA/tree/master/1301-number-of-paths-with-max-score) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/rku-21/DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Shortest Path
 |  |
@@ -108,4 +110,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/rku-21/DSA/tree/master/0187-repeated-dna-sequences) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1301-number-of-paths-with-max-score](https://github.com/rku-21/DSA/tree/master/1301-number-of-paths-with-max-score) |
 <!---LeetCode Topics End-->
