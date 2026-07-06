@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/rku-21/DSA/tree/master/0219-contains-duplicate-ii) |
+| [1288-remove-covered-intervals](https://github.com/rku-21/DSA/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/rku-21/DSA/tree/master/1301-number-of-paths-with-max-score) |
 | [1403-minimum-subsequence-in-non-increasing-order](https://github.com/rku-21/DSA/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
 | [2401-longest-nice-subarray](https://github.com/rku-21/DSA/tree/master/2401-longest-nice-subarray) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [1288-remove-covered-intervals](https://github.com/rku-21/DSA/tree/master/1288-remove-covered-intervals) |
 | [1403-minimum-subsequence-in-non-increasing-order](https://github.com/rku-21/DSA/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
 ## String
 |  |
