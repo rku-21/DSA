@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/rku-21/DSA/tree/master/0146-lru-cache) |
 | [0187-repeated-dna-sequences](https://github.com/rku-21/DSA/tree/master/0187-repeated-dna-sequences) |
 | [0219-contains-duplicate-ii](https://github.com/rku-21/DSA/tree/master/0219-contains-duplicate-ii) |
+| [1027-longest-arithmetic-subsequence](https://github.com/rku-21/DSA/tree/master/1027-longest-arithmetic-subsequence) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/rku-21/DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Linked List
 |  |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/rku-21/DSA/tree/master/0219-contains-duplicate-ii) |
+| [1027-longest-arithmetic-subsequence](https://github.com/rku-21/DSA/tree/master/1027-longest-arithmetic-subsequence) |
 | [1288-remove-covered-intervals](https://github.com/rku-21/DSA/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/rku-21/DSA/tree/master/1301-number-of-paths-with-max-score) |
 | [1403-minimum-subsequence-in-non-increasing-order](https://github.com/rku-21/DSA/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [1027-longest-arithmetic-subsequence](https://github.com/rku-21/DSA/tree/master/1027-longest-arithmetic-subsequence) |
 | [1301-number-of-paths-with-max-score](https://github.com/rku-21/DSA/tree/master/1301-number-of-paths-with-max-score) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/rku-21/DSA/tree/master/1547-minimum-cost-to-cut-a-stick) |
 ## Math
@@ -135,4 +138,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/rku-21/DSA/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
+## Binary Search
+|  |
+| ------- |
+| [1027-longest-arithmetic-subsequence](https://github.com/rku-21/DSA/tree/master/1027-longest-arithmetic-subsequence) |
 <!---LeetCode Topics End-->
