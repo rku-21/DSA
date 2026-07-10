@@ -1,14 +1,27 @@
 class Solution {
 public:
-    bool isMatch(string s, string p) {
-        if (p.empty()) return s.empty();
-
-        bool fm = (!s.empty() && (s[0] == p[0] || p[0] == '.'));
-
-        if (p.size() >= 2 && p[1] == '*') {
-            return isMatch(s, p.substr(2)) || (fm && isMatch(s.substr(1), p));
-        } else {
-            return fm && isMatch(s.substr(1), p.substr(1));
+    bool solve(int i, int j, string&s, string &p){
+        if(j==p.size()) {
+            return i==s.size();
         }
+        bool fm=(i<s.size()  && ( s[i]==p[j] || p[j]=='.'));
+        bool ans=false;
+        if(j+1<p.size() && p[j+1]=='*'){
+            ans= solve(i,j+2,s,p) || fm && solve(i+1,j,s,p);
+        }
+        else {
+            ans= fm&&solve(i+1,j+1,s,p);
+        }
+
+        return ans;
+
+
+
+
+
+    }
+    bool isMatch(string s, string p) {
+        return solve(0,0,s,p);
+        
     }
 };
