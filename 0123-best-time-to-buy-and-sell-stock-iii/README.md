@@ -37,3 +37,34 @@ Note that you cannot buy on day 1, buy on day 2 and sell them later, as you are 
 	<li><code>1 &lt;= prices.length &lt;= 10<sup>5</sup></code></li>
 	<li><code>0 &lt;= prices[i] &lt;= 10<sup>5</sup></code></li>
 </ul>
+
+# 📌 Stock Trading Max 2 Trades: Mental Models
+
+## 1. Split-Point Method (The Suffix Array)
+* **The Core Idea:** Split the timeline into two separate halves using a wall.
+* **The Math:** `Total Profit = Max Profit(Left Side) + Max Profit(Right Side)`
+* **Mental Model:** 
+  * Walk **backwards** from the end to calculate the best single trade you could *ever* make in the future on the right side of the wall (`secMaxProfit`).
+  * Walk **forwards** from the start to find the best single trade on the left side of the wall.
+  * Test every single day as the "wall" and combine the left profit with the pre-calculated right profit.
+
+---
+
+## 2. Reinvestment Chain (The Continuous Box) 📦
+* **The Core Idea:** One single pool of money where your first win funds your next bet.
+* **The Math:** 
+  $$\text{Total Profit} = (B - A) + (D - C)$$
+  Rearranged:
+  $$\text{Total Profit} = D - (C - (B - A))$$
+  Where:
+  * $A$ = Buy 1
+  * $B$ = Sell 1 (Profit 1 = $B - A$)
+  * $C$ = Buy 2
+  * $D$ = Sell 2
+* **Mental Model:**
+  * Treat `Buy 2` as your **Effective Out-of-Pocket Cost**: $(C - \text{Profit 1})$.
+  * If Stock 2 costs \$10 ($C$), but you have \$4 in your pocket from trade 1 ($B-A$), it only feels like you spent \$6 of your original money to buy it. 
+  * You return **only `Profit 2`** because the math already injected your first profit directly into your final wallet balance.
+ of how many days of data there are.
+*   **Cons**: Requires a shift in mindset to view "cost" as a relative value influenced by past success.
+
