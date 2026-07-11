@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/rku-21/DSA/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0076-minimum-window-substring](https://github.com/rku-21/DSA/tree/master/0076-minimum-window-substring) |
 | [0146-lru-cache](https://github.com/rku-21/DSA/tree/master/0146-lru-cache) |
 | [0187-repeated-dna-sequences](https://github.com/rku-21/DSA/tree/master/0187-repeated-dna-sequences) |
 | [0219-contains-duplicate-ii](https://github.com/rku-21/DSA/tree/master/0219-contains-duplicate-ii) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0010-regular-expression-matching](https://github.com/rku-21/DSA/tree/master/0010-regular-expression-matching) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/rku-21/DSA/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0076-minimum-window-substring](https://github.com/rku-21/DSA/tree/master/0076-minimum-window-substring) |
 | [0187-repeated-dna-sequences](https://github.com/rku-21/DSA/tree/master/0187-repeated-dna-sequences) |
 | [0424-longest-repeating-character-replacement](https://github.com/rku-21/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0472-concatenated-words](https://github.com/rku-21/DSA/tree/master/0472-concatenated-words) |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/rku-21/DSA/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0076-minimum-window-substring](https://github.com/rku-21/DSA/tree/master/0076-minimum-window-substring) |
 | [0187-repeated-dna-sequences](https://github.com/rku-21/DSA/tree/master/0187-repeated-dna-sequences) |
 | [0219-contains-duplicate-ii](https://github.com/rku-21/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/rku-21/DSA/tree/master/0424-longest-repeating-character-replacement) |
