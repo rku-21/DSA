@@ -1,35 +1,25 @@
 class Solution {
 public:
-    // (jay Shree Ram)
+    //  (Jay Shree Ram)
     int maxProfit(vector<int>& prices) {
         int n=prices.size();
-        if(n==1) return 0;
-      
-        // secMaxProfit store  max profit possible from day i to day n-1
-        vector<int>secMaxProfit(n);
-        int maxi=prices[n-1];
-        secMaxProfit[n-1]=0;
-        for(int i=n-2; i>=0; i--){
-            secMaxProfit[i]=max(secMaxProfit[i+1],maxi-prices[i]);
-            maxi=max(maxi,prices[i]);
+        int p1=0;
+        int p2=0;
+        int b1=INT_MAX;
+        int b2=INT_MAX;
+
+        for(auto price: prices){
+            b1=min(b1,price);
+            p1=max(p1,price-b1);
+
+            // we can invest the profit from first in second buy
+            b2=min(b2,price-p1);
+            p2=max(p2,price-b2);
+
+
         }
 
-        int ans=max(secMaxProfit[0],secMaxProfit[1]);
-         int mini=prices[0];
-        for(int i=0; i<n-1; i++){
-            mini=min(mini,prices[i]);
-            int ans1=prices[i]-mini;
-            int ans2=secMaxProfit[i+1];
-      
-            ans=max({ans,ans1,ans2,ans1+ans2});
-           
-            
-           
-        }
-
-        return ans<0?0:ans;
-        
-
+        return p2;
         
     }
 };
