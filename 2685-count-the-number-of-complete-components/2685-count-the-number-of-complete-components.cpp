@@ -3,7 +3,7 @@ public:
     vector<bool>vis;
     pair<int,int> dfs(int node, auto&adj){
         vis[node]=true;
-        cout<<"vis--> "<<node<<endl;
+        // cout<<"vis--> "<<node<<endl;
          pair<int,int>tempAns={0,0};
         for(auto neig:adj[node]){
             if(!vis[neig]){
