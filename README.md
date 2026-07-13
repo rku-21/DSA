@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/rku-21/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0472-concatenated-words](https://github.com/rku-21/DSA/tree/master/0472-concatenated-words) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/rku-21/DSA/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0801-minimum-swaps-to-make-sequences-increasing](https://github.com/rku-21/DSA/tree/master/0801-minimum-swaps-to-make-sequences-increasing) |
 | [1027-longest-arithmetic-subsequence](https://github.com/rku-21/DSA/tree/master/1027-longest-arithmetic-subsequence) |
 | [1288-remove-covered-intervals](https://github.com/rku-21/DSA/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/rku-21/DSA/tree/master/1301-number-of-paths-with-max-score) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/rku-21/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/rku-21/DSA/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0472-concatenated-words](https://github.com/rku-21/DSA/tree/master/0472-concatenated-words) |
+| [0801-minimum-swaps-to-make-sequences-increasing](https://github.com/rku-21/DSA/tree/master/0801-minimum-swaps-to-make-sequences-increasing) |
 | [0935-knight-dialer](https://github.com/rku-21/DSA/tree/master/0935-knight-dialer) |
 | [1027-longest-arithmetic-subsequence](https://github.com/rku-21/DSA/tree/master/1027-longest-arithmetic-subsequence) |
 | [1301-number-of-paths-with-max-score](https://github.com/rku-21/DSA/tree/master/1301-number-of-paths-with-max-score) |
