@@ -214,4 +214,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/rku-21/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/rku-21/DSA/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
