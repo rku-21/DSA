@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2449-minimum-number-of-operations-to-make-arrays-similar](https://github.com/rku-21/DSA/tree/master/2449-minimum-number-of-operations-to-make-arrays-similar) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/rku-21/DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2541-minimum-operations-to-make-array-equal-ii](https://github.com/rku-21/DSA/tree/master/2541-minimum-operations-to-make-array-equal-ii) |
+| [2934-minimum-operations-to-maximize-last-elements-in-arrays](https://github.com/rku-21/DSA/tree/master/2934-minimum-operations-to-maximize-last-elements-in-arrays) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/rku-21/DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/rku-21/DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/rku-21/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -218,4 +219,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/rku-21/DSA/tree/master/1291-sequential-digits) |
+| [2934-minimum-operations-to-maximize-last-elements-in-arrays](https://github.com/rku-21/DSA/tree/master/2934-minimum-operations-to-maximize-last-elements-in-arrays) |
 <!---LeetCode Topics End-->
