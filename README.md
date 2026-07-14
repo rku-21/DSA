@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/rku-21/DSA/tree/master/0229-majority-element-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/rku-21/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/rku-21/DSA/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0560-subarray-sum-equals-k](https://github.com/rku-21/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [1027-longest-arithmetic-subsequence](https://github.com/rku-21/DSA/tree/master/1027-longest-arithmetic-subsequence) |
 | [1331-rank-transform-of-an-array](https://github.com/rku-21/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/rku-21/DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/rku-21/DSA/tree/master/0414-third-maximum-number) |
 | [0472-concatenated-words](https://github.com/rku-21/DSA/tree/master/0472-concatenated-words) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/rku-21/DSA/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0560-subarray-sum-equals-k](https://github.com/rku-21/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0801-minimum-swaps-to-make-sequences-increasing](https://github.com/rku-21/DSA/tree/master/0801-minimum-swaps-to-make-sequences-increasing) |
 | [0918-maximum-sum-circular-subarray](https://github.com/rku-21/DSA/tree/master/0918-maximum-sum-circular-subarray) |
 | [1027-longest-arithmetic-subsequence](https://github.com/rku-21/DSA/tree/master/1027-longest-arithmetic-subsequence) |
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/rku-21/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/rku-21/DSA/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Binary Search
 |  |
