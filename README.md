@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0143-reorder-list](https://github.com/rku-21/DSA/tree/master/0143-reorder-list) |
 | [0146-lru-cache](https://github.com/rku-21/DSA/tree/master/0146-lru-cache) |
 ## Design
 |  |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0143-reorder-list](https://github.com/rku-21/DSA/tree/master/0143-reorder-list) |
 | [3676-count-bowl-subarrays](https://github.com/rku-21/DSA/tree/master/3676-count-bowl-subarrays) |
 ## Monotonic Stack
 |  |
@@ -212,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0143-reorder-list](https://github.com/rku-21/DSA/tree/master/0143-reorder-list) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/rku-21/DSA/tree/master/0532-k-diff-pairs-in-an-array) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/rku-21/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Divide and Conquer
@@ -223,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/rku-21/DSA/tree/master/0010-regular-expression-matching) |
+| [0143-reorder-list](https://github.com/rku-21/DSA/tree/master/0143-reorder-list) |
 ## Tree
 |  |
 | ------- |
