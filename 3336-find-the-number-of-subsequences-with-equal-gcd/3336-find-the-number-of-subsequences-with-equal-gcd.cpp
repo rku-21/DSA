@@ -1,29 +1,43 @@
 class Solution {
 public:
-    int n;
-    int MOD=1e9+7;
     int dp[201][201][201];
-    int solve(int idx, int gcd1, int gcd2,auto&nums){
-        if(idx>=n){
-            if(gcd1==gcd2) return 1;
-            return 0;
-        }
-        if(dp[idx][gcd1][gcd2]!=-1) return dp[idx][gcd1][gcd2];
-
-        int ans=0;
-        ans=(ans+solve(idx+1, __gcd(nums[idx],gcd1),gcd2,nums))%MOD;
-        ans=(ans+solve(idx+1,gcd1,__gcd(nums[idx],gcd2),nums))%MOD;
-
-        ans=(ans+solve(idx+1,gcd1,gcd2,nums))%MOD;;
-
-        return dp[idx][gcd1][gcd2]= ans;
-
-
-    }
+    int MOD=1e9+7;
     int subsequencePairCount(vector<int>& nums) {
-        n=nums.size();
-        memset(dp,-1,sizeof(dp));
-        return (solve(0,0,0,nums)-1+MOD)%MOD; // gcd(0,anynumber)=anynumber
+        int n=nums.size();
+        int max_val=*max_element(nums.begin(), nums.end());
+        memset(dp,0,sizeof(dp));
+        for(int i=0; i<=max_val; i++){
+            for(int j=0; j<=max_val; j++){
+                if(i!=0 && j!=0 && i==j){
+                    dp[n][i][j]=1;
+                }
+                else dp[n][i][j]=0;
+            }
+        }
+
+        for(int idx=n-1; idx>=0; idx--){
+            for(int i=max_val; i>=0; i--){
+                for(int j=max_val; j>=0; j--){
+                    int skip=dp[idx+1][i][j];
+                    int ans1=dp[idx+1][__gcd(i,nums[idx])][j];
+                    int ans2=dp[idx+1][i][__gcd(j,nums[idx])];
+                    dp[idx][i][j]=(0LL+skip+ans1+ans2)%MOD;
+
+
+                }
+            }
+        }
+        return dp[0][0][0];
+
+
         
+
+        
+
+
+
+
+
+
     }
 };
