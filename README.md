@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0187-repeated-dna-sequences](https://github.com/rku-21/DSA/tree/master/0187-repeated-dna-sequences) |
 | [0219-contains-duplicate-ii](https://github.com/rku-21/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/rku-21/DSA/tree/master/0229-majority-element-ii) |
+| [0387-first-unique-character-in-a-string](https://github.com/rku-21/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/rku-21/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/rku-21/DSA/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/rku-21/DSA/tree/master/0560-subarray-sum-equals-k) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/rku-21/DSA/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0076-minimum-window-substring](https://github.com/rku-21/DSA/tree/master/0076-minimum-window-substring) |
 | [0187-repeated-dna-sequences](https://github.com/rku-21/DSA/tree/master/0187-repeated-dna-sequences) |
+| [0387-first-unique-character-in-a-string](https://github.com/rku-21/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/rku-21/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0472-concatenated-words](https://github.com/rku-21/DSA/tree/master/0472-concatenated-words) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/rku-21/DSA/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -257,9 +259,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/rku-21/DSA/tree/master/0229-majority-element-ii) |
+| [0387-first-unique-character-in-a-string](https://github.com/rku-21/DSA/tree/master/0387-first-unique-character-in-a-string) |
 ## Queue
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/rku-21/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0918-maximum-sum-circular-subarray](https://github.com/rku-21/DSA/tree/master/0918-maximum-sum-circular-subarray) |
 ## Monotonic Queue
 |  |
