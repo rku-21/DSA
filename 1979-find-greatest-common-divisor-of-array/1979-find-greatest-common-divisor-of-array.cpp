@@ -1,11 +1,8 @@
 class Solution {
 public:
     int mygcd(int a, int b){
-        if(a==b) return a;
-        if(a==0) return b;
         if(b==0) return a;
-        if(a>b) return mygcd(a-b,b);
-        return mygcd(a,b-a);
+        return mygcd(b,a%b);
        
         
         
