@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1403-minimum-subsequence-in-non-increasing-order](https://github.com/rku-21/DSA/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/rku-21/DSA/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/rku-21/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2179-count-good-triplets-in-an-array](https://github.com/rku-21/DSA/tree/master/2179-count-good-triplets-in-an-array) |
 | [2401-longest-nice-subarray](https://github.com/rku-21/DSA/tree/master/2401-longest-nice-subarray) |
 | [2449-minimum-number-of-operations-to-make-arrays-similar](https://github.com/rku-21/DSA/tree/master/2449-minimum-number-of-operations-to-make-arrays-similar) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/rku-21/DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -248,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/rku-21/DSA/tree/master/0493-reverse-pairs) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/rku-21/DSA/tree/master/0532-k-diff-pairs-in-an-array) |
 | [1027-longest-arithmetic-subsequence](https://github.com/rku-21/DSA/tree/master/1027-longest-arithmetic-subsequence) |
+| [2179-count-good-triplets-in-an-array](https://github.com/rku-21/DSA/tree/master/2179-count-good-triplets-in-an-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/rku-21/DSA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/rku-21/DSA/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/rku-21/DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -269,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/rku-21/DSA/tree/master/0053-maximum-subarray) |
 | [0493-reverse-pairs](https://github.com/rku-21/DSA/tree/master/0493-reverse-pairs) |
 | [0918-maximum-sum-circular-subarray](https://github.com/rku-21/DSA/tree/master/0918-maximum-sum-circular-subarray) |
+| [2179-count-good-triplets-in-an-array](https://github.com/rku-21/DSA/tree/master/2179-count-good-triplets-in-an-array) |
 ## Recursion
 |  |
 | ------- |
@@ -315,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/rku-21/DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0493-reverse-pairs](https://github.com/rku-21/DSA/tree/master/0493-reverse-pairs) |
+| [2179-count-good-triplets-in-an-array](https://github.com/rku-21/DSA/tree/master/2179-count-good-triplets-in-an-array) |
 ## Combinatorics
 |  |
 | ------- |
@@ -327,13 +331,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/rku-21/DSA/tree/master/0493-reverse-pairs) |
+| [2179-count-good-triplets-in-an-array](https://github.com/rku-21/DSA/tree/master/2179-count-good-triplets-in-an-array) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/rku-21/DSA/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Binary Indexed Tree
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/rku-21/DSA/tree/master/0493-reverse-pairs) |
+| [2179-count-good-triplets-in-an-array](https://github.com/rku-21/DSA/tree/master/2179-count-good-triplets-in-an-array) |
 ## Ordered Set
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/rku-21/DSA/tree/master/0493-reverse-pairs) |
+| [2179-count-good-triplets-in-an-array](https://github.com/rku-21/DSA/tree/master/2179-count-good-triplets-in-an-array) |
 <!---LeetCode Topics End-->
