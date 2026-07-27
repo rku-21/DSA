@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1027-longest-arithmetic-subsequence](https://github.com/rku-21/DSA/tree/master/1027-longest-arithmetic-subsequence) |
 | [1331-rank-transform-of-an-array](https://github.com/rku-21/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/rku-21/DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2501-longest-square-streak-in-an-array](https://github.com/rku-21/DSA/tree/master/2501-longest-square-streak-in-an-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/rku-21/DSA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/rku-21/DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Linked List
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2401-longest-nice-subarray](https://github.com/rku-21/DSA/tree/master/2401-longest-nice-subarray) |
 | [2449-minimum-number-of-operations-to-make-arrays-similar](https://github.com/rku-21/DSA/tree/master/2449-minimum-number-of-operations-to-make-arrays-similar) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/rku-21/DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2501-longest-square-streak-in-an-array](https://github.com/rku-21/DSA/tree/master/2501-longest-square-streak-in-an-array) |
 | [2541-minimum-operations-to-make-array-equal-ii](https://github.com/rku-21/DSA/tree/master/2541-minimum-operations-to-make-array-equal-ii) |
 | [2934-minimum-operations-to-maximize-last-elements-in-arrays](https://github.com/rku-21/DSA/tree/master/2934-minimum-operations-to-maximize-last-elements-in-arrays) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/rku-21/DSA/tree/master/2976-minimum-cost-to-convert-string-i) |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rku-21/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/rku-21/DSA/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [2449-minimum-number-of-operations-to-make-arrays-similar](https://github.com/rku-21/DSA/tree/master/2449-minimum-number-of-operations-to-make-arrays-similar) |
+| [2501-longest-square-streak-in-an-array](https://github.com/rku-21/DSA/tree/master/2501-longest-square-streak-in-an-array) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/rku-21/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/rku-21/DSA/tree/master/3536-maximum-product-of-two-digits) |
 ## String
@@ -236,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1027-longest-arithmetic-subsequence](https://github.com/rku-21/DSA/tree/master/1027-longest-arithmetic-subsequence) |
 | [1301-number-of-paths-with-max-score](https://github.com/rku-21/DSA/tree/master/1301-number-of-paths-with-max-score) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/rku-21/DSA/tree/master/1547-minimum-cost-to-cut-a-stick) |
+| [2501-longest-square-streak-in-an-array](https://github.com/rku-21/DSA/tree/master/2501-longest-square-streak-in-an-array) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/rku-21/DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/rku-21/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Math
@@ -272,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0732-my-calendar-iii](https://github.com/rku-21/DSA/tree/master/0732-my-calendar-iii) |
 | [1027-longest-arithmetic-subsequence](https://github.com/rku-21/DSA/tree/master/1027-longest-arithmetic-subsequence) |
 | [2179-count-good-triplets-in-an-array](https://github.com/rku-21/DSA/tree/master/2179-count-good-triplets-in-an-array) |
+| [2501-longest-square-streak-in-an-array](https://github.com/rku-21/DSA/tree/master/2501-longest-square-streak-in-an-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/rku-21/DSA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/rku-21/DSA/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/rku-21/DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
