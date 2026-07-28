@@ -210,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/rku-21/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0472-concatenated-words](https://github.com/rku-21/DSA/tree/master/0472-concatenated-words) |
+| [1026-maximum-difference-between-node-and-ancestor](https://github.com/rku-21/DSA/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/rku-21/DSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/rku-21/DSA/tree/master/2685-count-the-number-of-complete-components) |
 ## Union-Find
@@ -311,10 +312,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/rku-21/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [1026-maximum-difference-between-node-and-ancestor](https://github.com/rku-21/DSA/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 ## Binary Tree
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/rku-21/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [1026-maximum-difference-between-node-and-ancestor](https://github.com/rku-21/DSA/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 ## Enumeration
 |  |
 | ------- |
