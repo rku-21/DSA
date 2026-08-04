@@ -251,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0010-regular-expression-matching](https://github.com/rku-21/DSA/tree/master/0010-regular-expression-matching) |
 | [0053-maximum-subarray](https://github.com/rku-21/DSA/tree/master/0053-maximum-subarray) |
+| [0096-unique-binary-search-trees](https://github.com/rku-21/DSA/tree/master/0096-unique-binary-search-trees) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/rku-21/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/rku-21/DSA/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0152-maximum-product-subarray](https://github.com/rku-21/DSA/tree/master/0152-maximum-product-subarray) |
@@ -270,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/rku-21/DSA/tree/master/0096-unique-binary-search-trees) |
 | [0486-predict-the-winner](https://github.com/rku-21/DSA/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rku-21/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/rku-21/DSA/tree/master/0877-stone-game) |
@@ -340,11 +342,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/rku-21/DSA/tree/master/0096-unique-binary-search-trees) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/rku-21/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/rku-21/DSA/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 ## Binary Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/rku-21/DSA/tree/master/0096-unique-binary-search-trees) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/rku-21/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/rku-21/DSA/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 ## Enumeration
@@ -437,4 +441,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/rku-21/DSA/tree/master/1406-stone-game-iii) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/rku-21/DSA/tree/master/0096-unique-binary-search-trees) |
 <!---LeetCode Topics End-->
